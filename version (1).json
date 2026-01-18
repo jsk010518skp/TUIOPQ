@@ -1,0 +1,5 @@
+{
+  "version": "16.0.0",
+  "changelog": "Initial release with OTA update functionality",
+  "force_update": false
+}
